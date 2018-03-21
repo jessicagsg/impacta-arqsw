@@ -1,0 +1,488 @@
+﻿{
+		codigo:1126525695, 
+		nome:"Atum em lata",
+		descricao:"sagittis lobortis mauris.",
+		categoria:"Outros alimentos",
+		preco:1.13,
+		custo:0.79		
+		}
+{
+		codigo:1136918692, 
+		nome:"Amora",
+		descricao:"pede nec",
+		categoria:"Frutas",
+		preco:7.61,
+		custo:5.33		
+		}
+{
+		codigo:1182658038, 
+		nome:"Desodorizador (casa)",
+		descricao:"ullamcorper. Duis at",
+		categoria:"Limpeza",
+		preco:2.82,
+		custo:1.97		
+		}
+{
+		codigo:1184365045, 
+		nome:"Chocolate",
+		descricao:"Nunc",
+		categoria:"Outros alimentos",
+		preco:3.91,
+		custo:2.74		
+		}
+{
+		codigo:1198880933, 
+		nome:"Xampu",
+		descricao:"fringilla est.",
+		categoria:"Higiene Pessoal",
+		preco:2.41,
+		custo:1.69		
+		}
+{
+		codigo:1202981240, 
+		nome:"Acelga",
+		descricao:"eu",
+		categoria:"Verduras, legumes e temperos",
+		preco:3.42,
+		custo:2.39		
+		}
+{
+		codigo:1206822672, 
+		nome:"Creme para pentear",
+		descricao:"ligula.",
+		categoria:"Higiene Pessoal",
+		preco:4.73,
+		custo:3.31		
+		}
+{
+		codigo:1282380363, 
+		nome:"Creme de barbear",
+		descricao:"Nullam ut",
+		categoria:"Higiene Pessoal",
+		preco:6.44,
+		custo:4.51		
+		}
+{
+		codigo:1390493925, 
+		nome:"Acerola",
+		descricao:"Aliquam",
+		categoria:"Frutas",
+		preco:9.00,
+		custo:6.30		
+		}
+{
+		codigo:1695552964, 
+		nome:"Aveia",
+		descricao:"ullamcorper. Duis cursus,",
+		categoria:"Outros alimentos",
+		preco:4.48,
+		custo:3.14		
+		}
+{
+		codigo:1796318060, 
+		nome:"Passa-roupas",
+		descricao:"eu",
+		categoria:"Limpeza",
+		preco:4.13,
+		custo:2.89		
+		}
+{
+		codigo:1887068611, 
+		nome:"Alface",
+		descricao:"nec tempus",
+		categoria:"Verduras, legumes e temperos",
+		preco:0.81,
+		custo:0.57		
+		}
+{
+		codigo:2176591215, 
+		nome:"Batata frita",
+		descricao:"mollis",
+		categoria:"Outros alimentos",
+		preco:4.53,
+		custo:3.17		
+		}
+{
+		codigo:2269036703, 
+		nome:"Tira-manchas",
+		descricao:"tempor arcu. Vestibulum",
+		categoria:"Limpeza",
+		preco:8.35,
+		custo:5.85		
+		}
+{
+		codigo:2297358454, 
+		nome:"Batata doce",
+		descricao:"lacus. Mauris non",
+		categoria:"Verduras, legumes e temperos",
+		preco:9.97,
+		custo:6.98		
+		}
+{
+		codigo:2363806710, 
+		nome:"Catchup",
+		descricao:"tincidunt dui",
+		categoria:"Outros alimentos",
+		preco:9.17,
+		custo:6.42		
+		}
+{
+		codigo:2573515958, 
+		nome:"Cera em pasta",
+		descricao:"Donec egestas. Duis",
+		categoria:"Limpeza",
+		preco:1.99,
+		custo:1.39		
+		}
+{
+		codigo:2695254199, 
+		nome:"Figo",
+		descricao:"Aliquam nec enim.",
+		categoria:"Frutas",
+		preco:7.37,
+		custo:5.16		
+		}
+{
+		codigo:3240818099, 
+		nome:"Escova de dentes",
+		descricao:"Quisque libero",
+		categoria:"Higiene Pessoal",
+		preco:1.73,
+		custo:1.21		
+		}
+{
+		codigo:3313418978, 
+		nome:"Desinfetante banheiro",
+		descricao:"ut eros non",
+		categoria:"Limpeza",
+		preco:9.15,
+		custo:6.41		
+		}
+{
+		codigo:3458815945, 
+		nome:"Biscoito salgado",
+		descricao:"diam vel arcu.",
+		categoria:"Matinais",
+		preco:4.66,
+		custo:3.26		
+		}
+{
+		codigo:3550335640, 
+		nome:"Agrião",
+		descricao:"ipsum. Donec sollicitudin",
+		categoria:"Verduras, legumes e temperos",
+		preco:8.00,
+		custo:5.60		
+		}
+{
+		codigo:3598381810, 
+		nome:"Pão francês",
+		descricao:"eleifend vitae, erat.",
+		categoria:"Matinais",
+		preco:6.21,
+		custo:4.35		
+		}
+{
+		codigo:3626349464, 
+		nome:"Alimento infantil",
+		descricao:"nec",
+		categoria:"Outros alimentos",
+		preco:7.83,
+		custo:5.48		
+		}
+{
+		codigo:4106854063, 
+		nome:"Caldo de carne/galinha/peixe",
+		descricao:"dapibus",
+		categoria:"Outros alimentos",
+		preco:3.64,
+		custo:2.55		
+		}
+{
+		codigo:4583654246, 
+		nome:"Abacate",
+		descricao:"Nulla facilisis. Suspendisse",
+		categoria:"Frutas",
+		preco:6.38,
+		custo:4.47		
+		}
+{
+		codigo:4715191862, 
+		nome:"Ameixa",
+		descricao:"pede sagittis",
+		categoria:"Frutas",
+		preco:7.10,
+		custo:4.97		
+		}
+{
+		codigo:4722627761, 
+		nome:"Aspargo em conserva",
+		descricao:"posuere cubilia",
+		categoria:"Outros alimentos",
+		preco:7.74,
+		custo:5.42		
+		}
+{
+		codigo:5092282125, 
+		nome:"Chocolate em pó",
+		descricao:"amet,",
+		categoria:"Matinais",
+		preco:7.36,
+		custo:5.15		
+		}
+{
+		codigo:5371072615, 
+		nome:"Batata",
+		descricao:"ut dolor dapibus",
+		categoria:"Verduras, legumes e temperos",
+		preco:8.70,
+		custo:6.09		
+		}
+{
+		codigo:5604742951, 
+		nome:"Banana",
+		descricao:"vulputate,",
+		categoria:"Frutas",
+		preco:6.11,
+		custo:4.28		
+		}
+{
+		codigo:5895885320, 
+		nome:"Arroz",
+		descricao:"habitant",
+		categoria:"Outros alimentos",
+		preco:9.73,
+		custo:6.81		
+		}
+{
+		codigo:6014789479, 
+		nome:"Sabonete em barra",
+		descricao:"eu,",
+		categoria:"Higiene Pessoal",
+		preco:5.99,
+		custo:4.19		
+		}
+{
+		codigo:6134241579, 
+		nome:"Sabão em pó",
+		descricao:"Fusce aliquet magna",
+		categoria:"Limpeza",
+		preco:1.79,
+		custo:1.25		
+		}
+{
+		codigo:6182696897, 
+		nome:"Biscoito doce",
+		descricao:"litora torquent per",
+		categoria:"Matinais",
+		preco:5.46,
+		custo:3.82		
+		}
+{
+		codigo:6245566813, 
+		nome:"Alho",
+		descricao:"ornare placerat,",
+		categoria:"Verduras, legumes e temperos",
+		preco:8.91,
+		custo:6.24		
+		}
+{
+		codigo:6270753083, 
+		nome:"Sabão de coco",
+		descricao:"In",
+		categoria:"Limpeza",
+		preco:2.68,
+		custo:1.88		
+		}
+{
+		codigo:6409600153, 
+		nome:"Alecrim",
+		descricao:"In tincidunt",
+		categoria:"Verduras, legumes e temperos",
+		preco:9.14,
+		custo:6.40		
+		}
+{
+		codigo:6462523332, 
+		nome:"Bolo",
+		descricao:"Aliquam",
+		categoria:"Matinais",
+		preco:1.06,
+		custo:0.74		
+		}
+{
+		codigo:6516435150, 
+		nome:"Pão de forma",
+		descricao:"blandit viverra.",
+		categoria:"Matinais",
+		preco:4.75,
+		custo:3.33		
+		}
+{
+		codigo:6615455999, 
+		nome:"Loção de limpeza",
+		descricao:"turpis",
+		categoria:"Higiene Pessoal",
+		preco:3.70,
+		custo:2.59		
+		}
+{
+		codigo:6729668449, 
+		nome:"Pente",
+		descricao:"turpis. Aliquam adipiscing",
+		categoria:"Higiene Pessoal",
+		preco:9.76,
+		custo:6.83		
+		}
+{
+		codigo:6869529750, 
+		nome:"Fio dental",
+		descricao:"lobortis",
+		categoria:"Higiene Pessoal",
+		preco:7.67,
+		custo:5.37		
+		}
+{
+		codigo:6946875465, 
+		nome:"Limpador de tapetes",
+		descricao:"sed dictum",
+		categoria:"Limpeza",
+		preco:5.24,
+		custo:3.67		
+		}
+{
+		codigo:7262083577, 
+		nome:"Cereja",
+		descricao:"Donec felis",
+		categoria:"Frutas",
+		preco:9.15,
+		custo:6.41		
+		}
+{
+		codigo:7391288114, 
+		nome:"Inseticida e raticida",
+		descricao:"sagittis",
+		categoria:"Limpeza",
+		preco:6.32,
+		custo:4.42		
+		}
+{
+		codigo:7561724802, 
+		nome:"Adoçante",
+		descricao:"erat",
+		categoria:"Matinais",
+		preco:7.58,
+		custo:5.31		
+		}
+{
+		codigo:7622377197, 
+		nome:"Alvejante",
+		descricao:"arcu. Nunc",
+		categoria:"Limpeza",
+		preco:9.58,
+		custo:6.71		
+		}
+{
+		codigo:8204661322, 
+		nome:"Removedor",
+		descricao:"morbi tristique senectus",
+		categoria:"Limpeza",
+		preco:4.32,
+		custo:3.02		
+		}
+{
+		codigo:8566983358, 
+		nome:"Anti-séptico bucal",
+		descricao:"habitant",
+		categoria:"Higiene Pessoal",
+		preco:3.85,
+		custo:2.70		
+		}
+{
+		codigo:8787784857, 
+		nome:"Eliminador de odores (roupas)",
+		descricao:"Mauris nulla.",
+		categoria:"Limpeza",
+		preco:4.11,
+		custo:2.88		
+		}
+{
+		codigo:8839615310, 
+		nome:"Azeite",
+		descricao:"elit, pharetra",
+		categoria:"Outros alimentos",
+		preco:8.75,
+		custo:6.13		
+		}
+{
+		codigo:8880473424, 
+		nome:"Cebola",
+		descricao:"risus varius",
+		categoria:"Verduras, legumes e temperos",
+		preco:5.13,
+		custo:3.59		
+		}
+{
+		codigo:9141894566, 
+		nome:"Azeitonas",
+		descricao:"vitae purus gravida",
+		categoria:"Outros alimentos",
+		preco:2.01,
+		custo:1.41		
+		}
+{
+		codigo:9180642809, 
+		nome:"Saco de lixo médio",
+		descricao:"nisl.",
+		categoria:"Limpeza",
+		preco:5.25,
+		custo:3.68		
+		}
+{
+		codigo:9253952366, 
+		nome:"Açúcar",
+		descricao:"molestie tortor",
+		categoria:"Outros alimentos",
+		preco:0.35,
+		custo:0.25		
+		}
+{
+		codigo:9277733071, 
+		nome:"Flanela de limpeza",
+		descricao:"aliquam eros",
+		categoria:"Limpeza",
+		preco:6.79,
+		custo:4.75		
+		}
+{
+		codigo:9407498050, 
+		nome:"Amido de milho",
+		descricao:"neque tellus, imperdiet",
+		categoria:"Outros alimentos",
+		preco:8.63,
+		custo:6.04		
+		}
+{
+		codigo:9471852837, 
+		nome:"Lustra-móveis",
+		descricao:"Proin",
+		categoria:"Limpeza",
+		preco:1.69,
+		custo:1.18		
+		}
+{
+		codigo:9612148979, 
+		nome:"Torradas",
+		descricao:"purus ac",
+		categoria:"Matinais",
+		preco:3.40,
+		custo:2.38		
+		}
+{
+		codigo:9911417402, 
+		nome:"Lenços umedecidos",
+		descricao:"Suspendisse aliquet, sem",
+		categoria:"Higiene Pessoal",
+		preco:0.61,
+		custo:0.43		
+		}
