@@ -18,7 +18,7 @@ A dependência excessiva de produtos de terceiros, erros para recuperação de f
 ### 7.5 Na sua opinião, o papel de TI na sua empresa se encaixa na
 categoria "TI estratégica" ou na categoria "TI operacional"?
 Explique o motivo.
-TI estratégica, pois atuo em uma fábrica de Software, onde TI é o core da empresa.
+TI estratégica, pois trabalho em uma fábrica de teste de software.
 
 ### 7.6 Para discutir em grupo: quais são as diferenças entre definir a arquitetura de um projeto e definir a arquitetura corporativa?
 A diferença é que a arquitetura de projeto visa atingir os objetivos do projeto em específico, sendo que ela também faz parte da arquitetura corporativa. Já a arquitetura corporativa visa os objetivos da empresa e os recursos necessários para concluí-los.
